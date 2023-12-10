@@ -16,3 +16,7 @@ Feel free to swap the image out, however in mprog2.m, make sure to change the di
 Windows terminal has a limit to the number of characters that an arguement can use. Therefore, the max size I found works is a 92x92 sized file. The file included is 92x92 and works for windows.
 *For Mac and Linux Users*
 To my knowledge, the limit (if there is one) is much much greater than windows, so you could use a larger file such as 256x256.
+
+
+*How to Run*
+Make sure you have GHC, SWI, GCC, Matlab, and Python installed on your machine. All you need to run is wrapper.py for the program to work. The wrapper.py code compiles and executes the other programs.
