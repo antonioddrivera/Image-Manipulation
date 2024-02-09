@@ -24,3 +24,6 @@ To my knowledge, the limit (if there is one) is much much greater than windows, 
 *How to Run*
 
 Make sure you have GHC, SWI, GCC, Matlab, and Python installed on your machine. All you need to run is wrapper.py for the program to work. The wrapper.py code compiles and executes the other programs.
+
+
+![Preview](https://github.com/antonioddrivera/Image-Manipulation/assets/76642218/b002ce7d-76f2-4c45-8e37-fcf3b0a42300)
